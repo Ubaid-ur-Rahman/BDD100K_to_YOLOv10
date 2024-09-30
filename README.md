@@ -1,7 +1,3 @@
-Here's a draft for your README file, outlining the purpose and functionality of your repository:
-
----
-
 # Dataset Conversion Scripts
 
 This repository contains Python scripts designed to convert some popular datasets into the YOLO v10 format. The datasets currently supported are "A Diverse Driving Dataset for Heterogeneous Multitask Learning. datasets(__BDD100K__)", "German Traffic Sign Recognition Benchmark (__GTSRB__)", and "Tsinghua-Tencent 100k (__TT100K__)". Each script handles the specific preprocessing and annotation conversion required for these datasets, facilitating their use in training YOLO-based object detection models.
